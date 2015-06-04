@@ -9,6 +9,12 @@
     "resources": {
         "media": [
             {
+                "file": "images/hal-micronbw.png",
+                "menuIcon": true,
+                "name": "HAL_MICRON",
+                "type": "png"
+            },
+            {
                 "file": "images/hal-icon-pebble-on-bnw.png",
                 "name": "HAL_9000",
                 "type": "png"
