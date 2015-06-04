@@ -1,0 +1,35 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Track Zero Systems",
+    "longName": "TZWatchCustomFont",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/hal-icon-pebble-on-bnw.png",
+                "name": "HAL_9000",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9:. AMPamp]",
+                "file": "fonts/FFF_Tusj.ttf",
+                "name": "TUSJ_42",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "TZWatchCustomFont",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "5d5e3d48-260e-4502-a42f-b350498515c0",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
